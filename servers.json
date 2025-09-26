@@ -2,7 +2,7 @@
     "servers": [
         {
             "name": "Davids Ani Server",
-            "address": https://ryze-v3-server.onrender.com
+            "address": "https://ryze-v3-server.onrender.com"
         }
     ]
 }
